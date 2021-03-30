@@ -29,6 +29,7 @@ nav{
 }
 h2 {
 	color: #a75;
+	text-align: center;
 }
 h1#name {
 	position:relative;
@@ -42,12 +43,12 @@ a#addy {
 	color: #333;
 	bottom: 40px;
 }
-div#skills{
-	width: 80%;
+.box{
+	text-align: justify;
+  	text-justify: inter-word;
+	grid-column-gap: 30px;
 	margin: 0 auto;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 }
-div#skills.h3{
-	color: #a75;
-}
+
