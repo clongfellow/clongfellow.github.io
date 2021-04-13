@@ -1,0 +1,16 @@
+The website opens to my resume page. at the top is my name, email (which links to my emails)
+and a nav bar, with two options: resume and about. 
+The resume link is a link to download my resume. The content of this page uses a grid system. 
+On the about page, the resume link takes you back to the resume page on-site. 
+On the about page, I have chosen to highlight two things: my love of chess and love of animals. 
+I have embedded an explaination of one of my favorite gambits along with the chess section,
+which also includes a link to my chess.com account. Feel free to challenge me if you play chess. 
+I also included images of animals that have had an impact on me in the animal section. 
+
+I started work on a project where I was training a chess ai using my games as training data 
+so that visitors could "play" me in chess, but I ran into difficulties with both the implementation
+of that, as well as realizing the integrating that into the site may have been outside the scope of 
+this project. 
+
+NOTE: At time of submission, lichess.com is down for everybody. I sincerely hope this is not the case
+when you review the site. 
